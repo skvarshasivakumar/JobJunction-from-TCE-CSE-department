@@ -1,0 +1,285 @@
+
+body{
+  /* background-color: rgb(169,254,222) !important; */
+      background: linear-gradient(to right,rgb(238, 254, 183) 19.1%, rgb(169, 254, 222) 53.9%, rgb(90, 222, 255) 92%) !important;
+  overflow-x: hidden;
+}
+
+
+#placementtext{
+  justify-content: left !important;
+}
+.planet{
+  margin-left: 5% !important;
+}
+.careerimage{
+  margin-left: 4%;
+  transform: rotate(-5deg);
+}
+#oneoffour{
+  width:25rem !important;
+
+  height:25rem !important;
+  border-radius: 20% !important;
+}
+#oneoffourr{
+  width:20rem !important;
+  height:20rem !important;
+    border-radius: 20% !important;
+
+}
+#footer{
+  background-color: #d8b109;
+  margin-top: 10%;
+  margin-bottom: -10%;
+
+  font-size: 1.5rem;
+  font-family: 'Playfair Display', serif;
+  margin-right: -10%;
+  padding:1%;
+  color:white;
+}
+#welcome{
+  font-size: 4rem;
+  font-family: 'Satisfy',cursive;
+  color:white;
+  margin-left: 10%;
+  align-items: center;
+}
+#wall{
+  margin-left: 3%;
+  height:80px;
+  width:150px;
+}
+#space{
+  padding:30px;
+
+}
+#navcontent{
+  letter-spacing: normal;
+  color:white;
+  font-family: 'Recursive', sans-serif;
+  font-size: 1.2rem;
+}
+.careerplanet{
+  font-weight: bold;
+  font-size: 3rem;
+}
+#uni:hover{
+background-color: #d8b109 !important;
+}
+#uni2:hover{
+background-color: #007060 !important;
+}
+#navcontent:hover {
+color: #293462;
+text-decoration: underline;
+}
+#learntwo{
+  text-align: left;
+}
+#learn{
+  text-align: right;
+}
+#second {
+  margin:-10%;
+  padding:5%;
+  background-color: black;
+  color: white;
+}
+
+
+/* styles.css files */
+
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #E97777;
+  background-color: #DEF5E5;
+}
+h4{
+  font-family: 'Recursive', sans-serif;
+}
+.logo{
+  height:120px;
+  width:120px;
+}
+#jumbotron-centered{
+  margin-top: auto;
+  /* background-image: linear-gradient(to right, #5DFDCB, #90D7FF); */
+  background-color: inherit;
+  /* background-image: linear-gradient(to right, #ddd6f3, #faaca8); */
+  /* background: radial-gradient(circle at 10% 20%, rgb(255, 229, 168) 0%, rgb(251, 174, 222) 100.7%); */
+}
+#welcome{
+  font-family: 'Pacifico', cursive;
+  color: black;
+}
+#para{
+font-family: 'Playfair Display', serif;
+}
+.full {
+    width: 100%;
+    float: left;
+}
+
+p.large {
+    font-size: 2rem !important;
+    color: #222;
+    font-weight: 200;
+}
+p.large {
+    margin-bottom: 30px;
+    font-size: 2rem !important;
+    line-height: 28px;
+    color: #252626;
+    font-weight: 300;
+    margin-top: 5px;
+}
+.heading_s1 h2 {
+    font-size: 60px;
+    color: #252323;
+    font-weight: 400;
+    line-height: 55px;
+    width: auto;
+}
+
+.heading_s2 h2::first-letter {
+    color: #3A1078;
+    font-size: 100px;
+    font-weight: 700;
+}
+.heading_s4 h2 {
+    font-size: 60px;
+    color: #252323;
+    font-weight: 400;
+    line-height: 55px;
+    width: auto;
+}
+
+.heading_s4 h2::first-letter {
+    color: #EAFDFC !important;
+    font-size: 100px;
+    font-weight: 700;
+}
+.heading_s2 h2 {
+    font-size: 60px;
+    color: #252323;
+    font-weight: 400;
+    line-height: 55px;
+    width: auto;
+}
+.heading_s1 h2::first-letter {
+    color: #72dd78;
+    font-size: 100px;
+    font-weight: 700;
+}
+.heading_s3 h2::first-letter {
+    color: #F2CD5C;
+    font-size: 100px;
+    font-weight: 700;
+}
+.heading_s3 h2 {
+    font-size: 60px;
+    color: #252323;
+    font-weight: 400;
+    line-height: 55px;
+    width: auto;
+}
+#disfont{
+  font-family:'Permananent Marker', cursive;
+}
+
+.heading_s2 h2 {
+    font-size: 50px;
+    font-weight: 600;
+}
+.heading_s5 h2::first-letter {
+    color: #21E1E1;
+    font-size: 100px;
+    font-weight: 700;
+}
+.heading_s5 h2 {
+    font-size: 60px;
+    color: #252323;
+    font-weight: 400;
+    line-height: 55px;
+    width: auto;
+}
+
+.cours + h3 {
+    margin-top: 30px;
+    font-size: 28px;
+}
+.cours img {
+    max-width: 70%;
+}
+
+#cont{
+  border-radius: 20%;
+  margin-left: 2%;
+/* background: #E5D1FA; */
+background: #C9EEFF;
+padding:2%;
+}
+
+
+
+/* CSS */
+.button-53 {
+  background-color: #3DD1E7 !important;
+  border: 0 solid #E5E7EB !important;
+  box-sizing: border-box;
+  color: #000000;
+  display: flex;
+  font-family: ui-sans-serif,system-ui,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  font-size: 1rem;
+  font-weight: 700;
+  justify-content: center;
+  line-height: 1.75rem;
+  padding: .75rem 1.65rem;
+  position: relative;
+  text-align: center;
+  text-decoration: none #000000 solid;
+  text-decoration-thickness: auto;
+  width: 100%;
+  max-width: 460px;
+  position: relative;
+  cursor: pointer;
+  transform: rotate(-2deg);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-53:focus {
+  outline: 0;
+}
+
+.button-53:after {
+  content: '';
+  position: absolute;
+  border: 1px solid #000000;
+  bottom: 4px;
+  left: 4px;
+  width: calc(100% - 1px);
+  height: calc(100% - 1px);
+}
+
+.button-53:hover:after {
+  bottom: 2px;
+  left: 2px;
+}
+
+@media (min-width: 768px) {
+  .button-53 {
+    padding: .75rem 3rem;
+    font-size: 1.25rem;
+  }
+}
